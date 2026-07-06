@@ -1,5 +1,45 @@
+# ===================================================
+# SISTEMA OPERATIVI (Non inviare i file nascosti del SO)
+# ===================================================
 .DS_Store
 Thumbs.db
+.Trashes
+.Trash-
+
+# ===================================================
+# AMBIENTE E CONFIGURAZIONE (MOLTO IMPORTANTE!)
+# ===================================================
 .env
+
+# ===================================================
+# CONFIGURAZIONE SERVER WEB
+.htaccess
+.htpasswd
+
+# ===================================================
+# EDITORI E IDE
+.idea/
+.vscode/
+.code-workspace
+.project
+.settings/
+*.code-workspace
+
+# ===================================================
+# LOG DEGLI ERRORI
+*.log
+error.log
+debug.log
+access.log
+
+# ===================================================
+# FILE TEMPORANEI DI LAVORO
+*.tmp
+*.swp
+*.bak
+*.cache
 __unisci.py
 progetto_unito.txt
+
+# ===================================================
+db.sql
