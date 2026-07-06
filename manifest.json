@@ -1,0 +1,16 @@
+{
+  "name": "GamifyLife",
+  "short_name": "GamifyLife",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "description": "Traccia le tue abitudini, guadagna XP, sale di livello.",
+  "icons": [
+    {
+      "src": "icona.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
